@@ -152,17 +152,3 @@ This project is a comprehensive **HR Analytics Dashboard** developed in Power BI
 - **Last Updated**: December 2, 2025
 - **Version Control**: Git
 
-## Resume Summary
-
-**Developed a comprehensive HR Analytics Dashboard in Power BI analyzing 1,470+ employee records across multiple dimensions including:**
-- Employee attrition patterns and retention metrics (16.1% attrition rate)
-- Compensation analysis and benefit tracking across 3 departments
-- Demographics and workforce composition analysis
-- Workplace satisfaction and work-life balance metrics
-- Performance management and career development tracking
-
-**Technical Implementation**: Data preparation in Excel, Power BI visualization, interactive dashboard design for stakeholder reporting and data-driven HR decision making.
-
----
-
-**Project demonstrates proficiency in business intelligence, HR analytics, and data-driven decision making.**
